@@ -1,44 +1,44 @@
 {
     "PAIR1": [{
-        "chainId": 5611,
-        "address": "0x35977d0497ee41f16B484b19A57fEc470B295461",
+        "chainId": 204,
+        "address": "0xe7f3767a6157b97524c769cf4905eded10cbfe8e",
         "decimals": 18,
-        "symbol": "BUSD",
-        "name": "Binance USD"
+        "symbol": "fakeBUSD",
+        "name": "Fake Binance USD"
     },
     {
-        "chainId": 5611,
-        "address": "0x7b3780dA2C42B39AaaaCDeb1930cBCd4077262BA",
+        "chainId": 204,
+        "address": "0x35b5d83761d0c2594c9e52d260ffc2bc07bfe34f",
         "decimals": 18,
-        "symbol": "USDT",
-        "name": "USD Tether"
+        "symbol": "fakeUSDT",
+        "name": "Fake USD Tether"
     }],
     "PAIR2": [{
-        "chainId": 5611,
-        "address": "0x617d91847b74B70a3D3e3745445cb0d1b3c8560E",
+        "chainId": 204,
+        "address": "0xa457653A7dbe1FdF314e30327D6ec0c5b2CfbD8A",
         "decimals": 18,
         "symbol": "BNB",
         "name": "Binance Coin"
     },
     {
-        "chainId": 5611,
-        "address": "0x7b3780dA2C42B39AaaaCDeb1930cBCd4077262BA",
+        "chainId": 204,
+        "address": "0x35b5d83761d0c2594c9e52d260ffc2bc07bfe34f",
         "decimals": 18,
-        "symbol": "USDT",
-        "name": "USD Tether"
+        "symbol": "fakeUSDT",
+        "name": "Fake USD Tether"
     }],
     "PAIR3": [{
-        "chainId": 5611,
-        "address": "0x617d91847b74B70a3D3e3745445cb0d1b3c8560E",
+        "chainId": 204,
+        "address": "0xa457653A7dbe1FdF314e30327D6ec0c5b2CfbD8A",
         "decimals": 18,
         "symbol": "BNB",
         "name": "Binance Coin"
     },
     {
-        "chainId": 5611,
-        "address": "0x35977d0497ee41f16B484b19A57fEc470B295461",
+        "chainId": 204,
+        "address": "0xe7f3767a6157b97524c769cf4905eded10cbfe8e",
         "decimals": 18,
-        "symbol": "BUSD",
-        "name": "Binance Coin"
+        "symbol": "fakeBUSD",
+        "name": "Fake Binance Coin"
     }]
 }
