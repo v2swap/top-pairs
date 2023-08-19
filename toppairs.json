@@ -15,7 +15,7 @@
     }],
     "PAIR2": [{
         "chainId": 204,
-        "address": "0xa457653A7dbe1FdF314e30327D6ec0c5b2CfbD8A",
+        "address": "0x4200000000000000000000000000000000000006",
         "decimals": 18,
         "symbol": "BNB",
         "name": "Binance Coin"
@@ -29,7 +29,7 @@
     }],
     "PAIR3": [{
         "chainId": 204,
-        "address": "0xa457653A7dbe1FdF314e30327D6ec0c5b2CfbD8A",
+        "address": "0x4200000000000000000000000000000000000006",
         "decimals": 18,
         "symbol": "BNB",
         "name": "Binance Coin"
