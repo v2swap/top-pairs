@@ -1,17 +1,17 @@
 {
     "PAIR1": [{
         "chainId": 204,
-        "address": "0xe7f3767a6157b97524c769cf4905eded10cbfe8e",
+        "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
         "decimals": 18,
-        "symbol": "fakeBUSD",
-        "name": "Fake Binance USD"
+        "symbol": "FDUSD",
+        "name": "First Digital USD"
     },
     {
         "chainId": 204,
-        "address": "0x35b5d83761d0c2594c9e52d260ffc2bc07bfe34f",
+        "address": "0x9e5aac1ba1a2e6aed6b32689dfcf62a509ca96f3",
         "decimals": 18,
-        "symbol": "fakeUSDT",
-        "name": "Fake USD Tether"
+        "symbol": "USDT",
+        "name": "Tether USD"
     }],
     "PAIR2": [{
         "chainId": 204,
@@ -22,10 +22,10 @@
     },
     {
         "chainId": 204,
-        "address": "0x35b5d83761d0c2594c9e52d260ffc2bc07bfe34f",
+        "address": "0x9e5aac1ba1a2e6aed6b32689dfcf62a509ca96f3",
         "decimals": 18,
-        "symbol": "fakeUSDT",
-        "name": "Fake USD Tether"
+        "symbol": "USDT",
+        "name": "Tether USD"
     }],
     "PAIR3": [{
         "chainId": 204,
@@ -36,9 +36,65 @@
     },
     {
         "chainId": 204,
-        "address": "0xe7f3767a6157b97524c769cf4905eded10cbfe8e",
+        "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
         "decimals": 18,
-        "symbol": "fakeBUSD",
-        "name": "Fake Binance Coin"
+        "symbol": "FDUSD",
+        "name": "First Digital USD"
+    }],
+    "PAIR4": [{
+        "chainId": 204,
+        "address": "0xe7798f023fc62146e8aa1b36da45fb70855a77ea",
+        "decimals": 18,
+        "symbol": "ETH",
+        "name": "Ethereum Token"
+    },
+    {
+        "chainId": 204,
+        "address": "0x9e5aac1ba1a2e6aed6b32689dfcf62a509ca96f3",
+        "decimals": 18,
+        "symbol": "USDT",
+        "name": "Tether USD"
+    }],
+    "PAIR5": [{
+        "chainId": 204,
+        "address": "0xe7798f023fc62146e8aa1b36da45fb70855a77ea",
+        "decimals": 18,
+        "symbol": "ETH",
+        "name": "Ethereum Token"
+    },
+    {
+        "chainId": 204,
+        "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
+        "decimals": 18,
+        "symbol": "FDUSD",
+        "name": "First Digital USD"
+    }],
+    "PAIR6": [{
+        "chainId": 204,
+        "address": "0x7c6b91d9be155a6db01f749217d76ff02a7227f2",
+        "decimals": 18,
+        "symbol": "BTCB",
+        "name": "BTCB Token"
+    },
+    {
+        "chainId": 204,
+        "address": "0x9e5aac1ba1a2e6aed6b32689dfcf62a509ca96f3",
+        "decimals": 18,
+        "symbol": "USDT",
+        "name": "Tether USD"
+    }],
+    "PAIR7": [{
+        "chainId": 204,
+        "address": "0x7c6b91d9be155a6db01f749217d76ff02a7227f2",
+        "decimals": 18,
+        "symbol": "BTCB",
+        "name": "BTCB Token"
+    },
+    {
+        "chainId": 204,
+        "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
+        "decimals": 18,
+        "symbol": "FDUSD",
+        "name": "First Digital USD"
     }]
 }
